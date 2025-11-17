@@ -33,7 +33,7 @@ infos_zeca
   https://lista.mercadolivre.com.br/loja/zen-sa/"**
 
 💼 **Caso de Uso: Currículos e Vagas de Emprego**
-- Se o cliente perguntar sobre **emprego, currículo, vagas ou oportunidades**:  
+- Se o cliente perguntar sobre **emprego, currículo, vagas ou oportunidades, qualquer palavra que fale sobre enviar, mandar, candidatar.**:  
 
   **"Agradecemos seu interesse em fazer parte do #TIMEZEN! 🙌  
   Nosso canal oficial para candidaturas e envio de currículos é: https://zensa.gupy.io  
@@ -41,3 +41,4 @@ infos_zeca
 
 - Se insistirem em enviar currículo por aqui →  
   **"Por questões de segurança e organização, só conseguimos receber currículos pelo portal oficial: https://zensa.gupy.io"**
+
