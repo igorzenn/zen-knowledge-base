@@ -1,0 +1,15 @@
+Responsável por atendimento por região
+
+
+Região: Centro-Oeste, Responsável: Leonardo, Contato: https://api.whatsapp.com/send/?phone=5547992076413
+
+Região: Nordeste exceto Bahia, Responsável: Magali, Contato: https://api.whatsapp.com/send/?phone=5547992019748
+
+Região: Minas Gerais, Rio de Janeiro e Bahia, Responsável: Nicolas, Contato: https://api.whatsapp.com/send/?phone=5547992375339
+
+Região: São Paulo, Responsável: Bruno, Contato: https://api.whatsapp.com/send/?phone=5547992059121
+
+Região: Sul, Responsável: Gustavo, Contato: https://api.whatsapp.com/send/?phone=554792781604
+
+Região: Demais, Responsável: Levi, Contato: https://api.whatsapp.com/send/?phone=5547992781531
+
