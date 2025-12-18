@@ -4,7 +4,6 @@ infos_zeca
 
 🏢 **Sobre a Zen, informações gerais**  
 
-- **SAC ZEN**: +55 47 3255 2800 (Brasil e exterior)  
 - **Horário**: Seg. a Sex. das 8h às 12h e das 13h às 17h  
 - **E-mail**: atendimento@zensa.com.br  
 - **Endereço**: Rua Guilherme Steffen, 65 - Brusque - SC, Brasil  
@@ -43,3 +42,4 @@ infos_zeca
 
 - Se insistirem em enviar currículo por aqui →  
   **"Por questões de segurança e organização, só conseguimos receber currículos pelo portal oficial: https://zensa.gupy.io"**
+
