@@ -14,12 +14,11 @@ infos_zeca
 📌 **Contatos Regionais**
 - Aftermarket (IAM)  
   • Brasil/América Latina → Cesar Tiago Nisch (cesar.nisch@zensa.com.br)  
-  • América do Norte → Tom Roman (tom.roman@zensa.com.br)  
+  • América do Norte →  Acacio Freitas (acacio.freitas@zensa.com.br) 
   • Europa/África/Oriente Médio → Acacio Freitas (acacio.freitas@zensa.com.br)  
-  • Ásia → Patrick Robison (patrick.robison@zensa.com.br)  
-
+  • Ásia → Acacio Freitas (acacio.freitas@zensa.com.br)
 - OEM  
-  • Global → Gustavo Serizawa (gustavo.serizawa@zensa.com.br)
+  • Global → Acacio Freitas (acacio.freitas@zensa.com.br)
 
 
  **Sobre a Zen, história** 
@@ -42,4 +41,5 @@ infos_zeca
 
 - Se insistirem em enviar currículo por aqui →  
   **"Por questões de segurança e organização, só conseguimos receber currículos pelo portal oficial: https://zensa.gupy.io"**
+
 
