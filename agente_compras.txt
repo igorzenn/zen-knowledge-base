@@ -1,0 +1,105 @@
+TREINAMENTO PARA ABERTURA DE SOLICITAÇÃO DE COMPRAS
+====================================================
+
+
+PROGRAMA CADASTRO DE SOLICITAÇÃO DE COMPRAS | FOCCO
+----------------------------------------------------
+
+Acessos:
+- Portal Focco > Menu de Programas > Suprimentos > Solicitação de Compras > Cadastro de Solicitação de Compras.
+- Portal Focco > Campo Pesquisa > Digitar FPDC0201.
+
+Campos:
+- Solicitação: preenchida automaticamente pelo Focco.
+- Tipo:
+  - P1 - MÁQUINA PARADA
+  - P2 - URGENTE
+  - P3 - NORMAL
+  - P4 - SEM PRIORIDADE
+- Situação: preenchida automaticamente pelo Focco.
+- Usuário: preenchido automaticamente pelo Focco.
+- Contato: opcional.
+- Solicitante: seleciona o solicitante da compra.
+- Desc. Compra: descrição breve da compra a ser realizada.
+
+
+JUSTIFICATIVA DE SOLICITAÇÃO DE COMPRAS | FOCCO
+------------------------------------------------
+
+- Campo Comprador: seleciona o comprador responsável pela compra.
+- Justificativa: inserir descrição breve que justifique a compra para o(s) liberador(es), conforme alçada de valores.
+
+Alçada de Valores:
+- R$ 0,01 a R$ 5.000,00: Gestor ou Supervisor.
+- R$ 5.000,01 a R$ 20.000,00: Gerência.
+- R$ 20.000,01 a R$ 40.000,00: Diretoria.
+- Acima de R$ 40.000,01: Presidência.
+
+
+ITENS DA SOLICITAÇÃO DE COMPRAS | FOCCO
+----------------------------------------
+
+Seção destinada ao preenchimento dos itens da solicitação de compras. É necessário visualizar a apresentação para entender melhor.
+
+
+CONTAS E CENTROS DE CUSTOS | PORTAL ZEN DE SISTEMAS
+----------------------------------------------------
+
+Acesso:
+- Portal ZEN de Sistemas > Módulo de Acesso Livre > Contas de Despesa e CC.
+
+Observações:
+- Exemplo: Despesas Gerais Diversas.
+- Há números diferentes de contas de despesas gerais diversas por pertencerem a centros de custo diferentes.
+
+
+VALOR, DATA, APLICAÇÃO E OBSERVAÇÃO | FOCCO
+--------------------------------------------
+
+- Valor Sugerido e Data Entrega: conforme orçamento ou conforme passado pelo Compras.
+- Aplicação: somente preenchido quando houver ordem de serviço.
+- Observação: somente quando necessário. Exemplo: aplicação a um determinado bem ou característica que não foi possível adicionar à descrição.
+
+
+ADICIONAR ORÇAMENTO E FORNECEDOR AO ITEM | FOCCO
+-------------------------------------------------
+
+- Clique no campo Adicionais e insira o orçamento em qualquer formato. Clique em salvar a solicitação antes de colocar adicionais.
+- Na aba Fornecedores, ir por item e selecionar o fornecedor pelo código.
+
+
+FINALIZAÇÃO DA SOLICITAÇÃO DE COMPRAS | FOCCO
+----------------------------------------------
+
+- Após o preenchimento dos campos obrigatórios, salvar a solicitação de compras.
+- Verificar se as informações inseridas estão corretas antes de encaminhar para aprovação.
+- A solicitação seguirá o fluxo de liberação conforme a alçada de valores definida.
+- Após a liberação, o comprador responsável dará continuidade ao processo de cotação e compra.
+
+
+PESQUISA SOLICITAÇÃO | FOCCO
+-----------------------------
+
+Acessos:
+- Portal Focco > Menu de Programas > Suprimentos > Solicitação de Compras > Consulta > Consulta de Solicitações de Compras.
+- Portal Focco > Campo Pesquisa > Digitar CPDC0201.
+
+
+CONSULTA DE SOLICITAÇÕES DE COMPRA | FOCCO
+-------------------------------------------
+
+A consulta pode ser realizada por:
+- Número da solicitação.
+- Usuário.
+- Solicitante.
+- Período de emissão.
+- Outros filtros disponíveis no sistema.
+
+
+INFORMAÇÕES FINAIS
+------------------
+
+Arquivo de origem:
+- TREINAMENTO SOLICITAÇÃO 23062026.pptx
+
+Todas as informações presentes nesse documento foram extraídas desse PPTX. Nele é possível visualizar imagens dos procedimentos e entender melhor caso ainda haja dúvidas.
