@@ -6,8 +6,8 @@ PROGRAMA CADASTRO DE SOLICITAÇÃO DE COMPRAS | FOCCO
 ----------------------------------------------------
 
 Acessos:
-- Portal Focco > Menu de Programas > Suprimentos > Solicitação de Compras > Cadastro de Solicitação de Compras.
-- Portal Focco > Campo Pesquisa > Digitar FPDC0201.
+- Focco ERP > Menu de Programas > Suprimentos > Solicitação de Compras > Cadastro de Solicitação de Compras.
+- Focco ERP > Campo Pesquisa > Digitar FPDC0201.
 
 Campos:
 - Solicitação: preenchida automaticamente pelo Focco.
